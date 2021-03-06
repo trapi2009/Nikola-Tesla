@@ -1,8 +1,5 @@
 body {
   background-color: rgb(0, 100, 255);
-  a:hover {
+  a {
     color: white;
-  }
-  a:visited {
-    color: rgb(100,100,100);
 }
